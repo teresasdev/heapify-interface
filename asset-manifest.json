@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/heapify-interface/static/css/main.f855e6bc.css",
+    "main.js": "/heapify-interface/static/js/main.da6652b8.js",
+    "static/js/453.3f192922.chunk.js": "/heapify-interface/static/js/453.3f192922.chunk.js",
+    "index.html": "/heapify-interface/index.html",
+    "main.f855e6bc.css.map": "/heapify-interface/static/css/main.f855e6bc.css.map",
+    "main.da6652b8.js.map": "/heapify-interface/static/js/main.da6652b8.js.map",
+    "453.3f192922.chunk.js.map": "/heapify-interface/static/js/453.3f192922.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.da6652b8.js"
+  ]
+}
